@@ -5,7 +5,7 @@
 > # **Matthew LeComte**
 >  
 
-- 🔭 I’m currently working on ... A portable Password Generator Program.
+- 🔭 I’m currently working on ... A Password Generator Flutter App.
 - 🌱 I’m currently learning ... **Solidity, Flutter, RestAPI, Web-stack.**
 - 👯 I’m looking to collaborate on ... Smart contracts and pentesting projects.
 - 🤔 I’m looking for help with ... **Writing malware and other advanced technical skills for pentesting/security.**
